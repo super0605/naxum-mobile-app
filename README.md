@@ -122,7 +122,7 @@ Before you begin, ensure you have the following installed:
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd don-zhang-mobile-app
+   cd don-mobile-app
    ```
 
 2. **Install dependencies**
