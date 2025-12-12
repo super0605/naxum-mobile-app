@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "NaXum Direct Sales",
+    "slug": "naxum-direct-sales",
+    "scheme": "naxum",
+    "version": "1.0.0",
+    "platforms": ["ios", "android", "web"],
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": { "supportsTablet": true },
+    "android": {
+      "package": "com.naxum.directsales"
+    },
+    "web": { "favicon": "./assets/favicon.png" }
+  }
+}
